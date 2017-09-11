@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogEksemper</string>
+    <string name="ok">Avslutt</string>
+    <string name="ikkeok">Avbryt</string>
+</resources>
